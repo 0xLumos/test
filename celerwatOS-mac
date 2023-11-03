@@ -1,0 +1,1 @@
+curl https://www.hellion.org.uk/cgi-bin/randmac.pl?scope=local&type=unicast | grep ^([0-9A-Fa-f]{2}[:-]){5}([0-9A-Fa-f]{2})$
